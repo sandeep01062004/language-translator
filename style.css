@@ -33,7 +33,7 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--text-color);
- background-image: url(images/bg.png);
+ background-image: url(bg.png);
 
 }
 
